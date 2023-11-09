@@ -11,4 +11,5 @@ Build a Sales Analysis Dashboard
 Microsoft PowerBI
 
 
+![sales](https://github.com/nikitasavaliya87/Sales-Dashboard-_-PowerBI/assets/144912665/f7c63a52-1447-4102-b6b4-c0db18540c1d)
 
